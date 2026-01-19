@@ -3,14 +3,6 @@
   "devCommand": "npm run dev",
   "installCommand": "npm install",
   "framework": "nextjs",
-  "regions": ["iad1"],
-  "env": {
-    "NEXT_PUBLIC_WEB3_STORAGE_TOKEN": "@web3_storage_token",
-    "NEXT_PUBLIC_WALLETCONNECT_PROJECT_ID": "@walletconnect_project_id",
-    "NEXT_PUBLIC_DATA_VAULT_ADDRESS": "@data_vault_address",
-    "NEXT_PUBLIC_PERMISSION_MANAGER_ADDRESS": "@permission_manager_address",
-    "NEXT_PUBLIC_MICRO_ECONOMY_ADDRESS": "@micro_economy_address",
-    "NEXT_PUBLIC_ACCESS_CONTROL_ADDRESS": "@access_control_address"
-  }
+  "regions": ["iad1"]
 }
 
